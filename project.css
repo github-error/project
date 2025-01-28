@@ -477,7 +477,7 @@ body {
 .client-1 {
     width: 700px;
     height: 400px;
-    background-color: yellow;
+    /* background-color: yellow; */
     border-radius: 10px;
     background-image: url('');
 }
